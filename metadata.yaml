@@ -1,0 +1,33 @@
+_repo: Cartas-sobre-a-educa--o-da-mocidade_23919
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanches, António Nunes Ribeiro
+    alias: Sanches, Antonio Nunes Ribeiro
+    birthdate: 1699
+    deathdate: 1783
+    gutenberg_agent_id: '26129'
+    url: http://www.gutenberg.org/2009/agents/26129
+description: ''
+edition_note: Nova Edição Revista e Prefaciada pelo Dr. Máximiano De Lemos
+gutenberg_issued: '2007-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23919'
+language: pt
+language_note: This ebook uses a beginnig of the 20th century spelling
+production_note: "Produced by Rita Farinha and the Online Distributed\r\nProofreading\
+  \ Team at http://www.pgdp.net (This file was\r\nproduced from images generously\
+  \ made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal).)"
+publication_note: "Coimbra:\r\nImprensa Da Universidade\r\n1922"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- Portugal'
+- !lcc 'LB'
+title: Cartas sobre a educação da mocidade
+url: http://www.gutenberg.org/ebooks/23919
